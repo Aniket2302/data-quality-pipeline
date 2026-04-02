@@ -79,5 +79,3 @@ data-quality-pipeline/
 
 ## 📌 Author
 Aniket Vishnoi
-
-Your Name
