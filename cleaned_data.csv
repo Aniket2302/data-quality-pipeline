@@ -1,0 +1,7 @@
+order_id,customer_name,email,order_date,price,category
+1,John,john@gmail.com,2023-01-01,100.0,electronics
+4,Bob,bob@gmail,2023-04-01,300.0,clothing
+7,Charlie,charlie@gmail.com,2023-06-01,500.0,clothing
+8,David,david@gmail.com,2023-07-01,350.0,clothing
+9,Emma,emma@gmail.com,2023-08-01,700.0,electronics
+10,Frank,frank@gmail.com,2023-09-01,800.0,electronics

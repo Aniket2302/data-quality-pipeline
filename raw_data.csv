@@ -1,0 +1,11 @@
+order_id,customer_name,email,order_date,price,category
+1,John,[john@gmail.com](mailto:john@gmail.com),2023-01-01,100,Electronics
+2,Alice,[alice@gmail.com](mailto:alice@gmail.com),01-02-2023,200,electronics
+3,,noemail,2023/03/01,-50,Clothing
+4,Bob,bob@gmail,2023-04-01,300,clothing
+5,Eve,,wrong_date,400,Electronics
+5,Eve,,wrong_date,400,Electronics
+7,Charlie,[charlie@gmail.com](mailto:charlie@gmail.com),2023-06-01,500,Clothing
+8,David,[david@gmail.com](mailto:david@gmail.com),2023-07-01,,Clothing
+9,Emma,[emma@gmail.com](mailto:emma@gmail.com),2023-08-01,700,electronics
+10,Frank,[frank@gmail.com](mailto:frank@gmail.com),2023-09-01,800,Electronics
