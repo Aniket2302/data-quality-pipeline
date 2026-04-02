@@ -1,5 +1,7 @@
 # 📊 Data Quality & Cleaning Pipeline
 
+🚀 End-to-end data cleaning, validation, and quality reporting project using Python & SQL
+
 ## 🚀 Project Overview
 
 This project simulates a real-world e-commerce dataset with multiple data quality issues and demonstrates how to clean, validate, and ensure data reliability.
